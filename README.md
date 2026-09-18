@@ -1,4 +1,4 @@
-# Hi, my name is Maria Shirin. I am a senior at John Jay studying Computer Science & Information Security.
+# Hi, my name is Maria. I am a senior at John Jay studying Computer Science & Information Security.
 
 I'm interested in cybersecurity, AI-powered workflows, and automation. I enjoy building practical technical projects that combine problem solving, security, and emerging technology.
 
